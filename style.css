@@ -357,3 +357,11 @@ margin-bottom: 20px;
     0%   {right: 1000px}
     100% {right: 0px}
 }
+
+.more {
+    font-size: 30px;
+    padding: 10px;
+    font-weight: 500px;
+    color: chartreuse;
+    
+}
